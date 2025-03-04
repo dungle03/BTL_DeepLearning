@@ -1,6 +1,10 @@
 # Ignore all PDF files
 *.pdf
 
+# ignore .env file
+.env
+
+
 # Optional: Add other file types you want to ignore
 # *.log
 # *.tmp
