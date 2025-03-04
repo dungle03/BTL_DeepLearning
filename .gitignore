@@ -1,0 +1,7 @@
+# Ignore all PDF files
+*.pdf
+
+# Optional: Add other file types you want to ignore
+# *.log
+# *.tmp
+# node_modules/
